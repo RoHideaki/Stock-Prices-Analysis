@@ -2,7 +2,7 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 
 #Baixando os dados do ticker com a biblio yf
-ticker = 'VIVA3.SA'
+ticker = 'PETR4.SA'
 acao = yf.download(ticker, start="2026-01-01")
 ibov = yf.download('^BVSP', start="2026-01-01")
 
