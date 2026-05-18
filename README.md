@@ -1,2 +1,2 @@
 # Stock-Prices-Analysis
-Projeto em Python com o objetivo de analisar os preços históricos de ações brasileiras, seus retornos e volatilidades.
+Projeto em Python com o objetivo de analisar os preços históricos de ações brasileiras, seus retornos e suas volatilidades.
